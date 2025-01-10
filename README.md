@@ -1,1 +1,1 @@
-# Simplified Social Media Platform
+# Simplified Social Media Platform (Instagram Clone)
